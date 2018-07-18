@@ -42,4 +42,6 @@ Just open ```config.php``` file.
 
 Edit and Replace ```YOUR_EMAIL``` with your email & replace ```API_KEY , API_SECRET AND API_SALT ``` with your own credentials which you can obtain from instamojo dashboard.
 
-And in last edit ```YOUR_WEBSITE_URL``` with your website url
+And in last edit ```YOUR_WEBSITE_URL``` with your website url and if the instamojo files are in sub-directory then add ```YOUR_WEBSITE_URL/DIRECTORY_NAME/```
+
+###### That's it and you are Good to Go
