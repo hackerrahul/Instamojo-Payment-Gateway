@@ -46,6 +46,6 @@ And in last edit ```YOUR_WEBSITE_URL``` with your website url and if the instamo
 
 NOTE - ```test.instamojo.com``` and ```instamojo.com``` are both different site the one with subdomain test is only for testing purposes and they ```API_KEYS, API_SECRET, & API_SALT IS DIFFERNT FOR BOTH THE SITES.
 
-So if you are planning to use this script in live mode just edit ```php $mode = 'test'```  adn replace test with ```live```
+So if you are planning to use this script in live mode just edit ```$mode = 'test';```  adn replace ```test``` with ```live```
 
 # That's it and you are Good to Go
