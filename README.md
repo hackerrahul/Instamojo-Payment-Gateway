@@ -53,9 +53,10 @@ So if you are planning to use this script in live mode just edit ```$mode = 'tes
 So Just Go to [Instamojo Payment Gateway Demo](http://demo.hackerrahul.com/instamojo/) and check out the demo.
 
 Here are the Test Debit Card Credentials which you can use to test the Payment gateway.
-
+```
 Card Number - 4242424242424242 <br />
 expiry Date - 01/20 <br />
 CVV - 111 <br />
 Second Factor Authentication Code - 1221
+```
 
