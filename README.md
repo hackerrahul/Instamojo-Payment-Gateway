@@ -3,7 +3,7 @@
 This is an updated script of [Instamojo Payment Gateway](https://www.hackerrahul.com/2017/10/integrate-instamojo-payment-gateway-php-mysql/).
 
 ## Update Contains -
-
+- Owner will be notified everytime a user complete a payment.
 - On page Payment gateway without refreshing the page using instamojo web integration method.
 ```javascript
 <script src="https://js.instamojo.com/v1/checkout.js"></script>
@@ -15,4 +15,4 @@ In instamojo Payment link is like
 ```
 http://test.instamojo.com/@rahul13gangotri/payment_id_here/
 ```
-Checkout Instamojo [Documentation](https://docs.instamojo.com/docs/).
+Checkout Instamojo [Documentation] for more(https://docs.instamojo.com/docs/).
