@@ -20,3 +20,5 @@ Checkout Instamojo [Documentation](https://docs.instamojo.com/docs/) for more.
 ## How to install
 
 Just open ```config.php``` file.
+
+edit ```API_KEY , API_SECRET AND API_SALT ``` with your own credentials which you can obtain from instamojo dashboard.
