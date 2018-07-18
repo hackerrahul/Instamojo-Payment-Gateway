@@ -54,9 +54,9 @@ So Just Go to [Instamojo Payment Gateway Demo](http://demo.hackerrahul.com/insta
 
 Here are the Test Debit Card Credentials which you can use to test the Payment gateway.
 ```
-Card Number - 4242424242424242 <br />
-expiry Date - 01/20 <br />
-CVV - 111 <br />
+Card Number - 4242424242424242 
+expiry Date - 01/20 
+CVV - 111 
 Second Factor Authentication Code - 1221
 ```
 
