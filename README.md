@@ -40,6 +40,6 @@ Just open ```config.php``` file.
 ?>
 ```
 
-edit ```API_KEY , API_SECRET AND API_SALT ``` with your own credentials which you can obtain from instamojo dashboard.
+edit and Replace ```YOUR_EMAIL``` with your email & replace ```API_KEY , API_SECRET AND API_SALT ``` with your own credentials which you can obtain from instamojo dashboard.
 
 
