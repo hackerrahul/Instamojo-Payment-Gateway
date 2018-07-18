@@ -49,3 +49,9 @@ NOTE - ```test.instamojo.com``` and ```instamojo.com``` are both different site,
 So if you are planning to use this script in live mode just edit ```$mode = 'test';```  adn replace ```test``` with ```live```
 
 # That's it and you are Good to Go
+
+So Just Go to [Instamojo Payment Gateway Demo](http://demo.hackerrahul.com/instamojo/) and check out the demo.
+
+Here are the Test Debit Card Credentials which you can use to test the Payment gateway.
+![Test Credentials](https://raw.githubusercontent.com/hackerrahul/payment_gateway/master/test_credentials.PNG)
+
