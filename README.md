@@ -16,3 +16,7 @@ In instamojo Payment link is like
 http://test.instamojo.com/@rahul13gangotri/payment_id_here/
 ```
 Checkout Instamojo [Documentation](https://docs.instamojo.com/docs/) for more.
+
+## How to install
+
+Just open ```config.php``` file.
