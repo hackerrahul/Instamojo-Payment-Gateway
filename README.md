@@ -5,7 +5,7 @@ This is an updated script of [Instamojo Payment Gateway](https://www.hackerrahul
 ## Update Contains -
 
 - On page Payment gateway without refreshing the page using instamojo web integration method.
-```
+```javascript
 <script src="https://js.instamojo.com/v1/checkout.js"></script>
     <script>
         Instamojo.open("payment_link_here"); 
